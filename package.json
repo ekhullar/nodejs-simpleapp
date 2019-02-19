@@ -1,0 +1,25 @@
+{
+  "name": "simpleweb",
+  "version": "1.0.0",
+  "description": "simple nodejs app",
+  "main": "app.js",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ekhullar/nodejs-simpleapp.git"
+  },
+  "author": "Amit Khullar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ekhullar/nodejs-simpleapp/issues"
+  },
+  "homepage": "https://github.com/ekhullar/nodejs-simpleapp#readme"
+}
